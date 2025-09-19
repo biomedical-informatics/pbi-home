@@ -8,32 +8,38 @@ seo:
   name: INFR11260 Programming for Biomedical Informatics
 ---
 
-# Just the Class
+## Welcome to the PBI course for 2025
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+### Course Overview
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
+The entire course will run through this GitHub repository. You can check the course LEARN page for some details, but I will have everything you need here so you don't have to look in lots of different places for information.
 
-Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
+This GithHub repository will be updated every week by me with that week's materials. This means that all you need to do to see the latest information is either visit the course GitHub webpage or "pull" the repository to update your local copy of it.
 
-- automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/),
-- instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
-- and a set of [UI components](https://just-the-docs.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://just-the-docs.github.io/just-the-docs/docs/utilities).
+#### Lecture Slides & Recordings
 
-## Getting Started
+Course lecture slides will be uploaded to this repository and lecture videos made available through a dedicated channel on YouTube. These will be collated into a section on the course front page as the course progresses so they are easily accessible to you.
 
-Getting started with Just the Class is simple.
+#### Programming
 
-1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
-1. Update `_config.yml` and `README.md` with your course information. [Be sure to update the url and baseurl](https://mademistakes.com/mastering-jekyll/site-url-baseurl/).
-1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
-1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add more content pages.
+Practical programming practice will take the form of weekly formative (not assessed) programming exercises using GitHub Classroom. These will happen in weeks 1-4 and 5-8 (so 8 in total).
 
-Just the Class has been used by instructors at Stanford University ([CS 161](https://stanford-cs161.github.io/winter2021/)), UC Berkeley ([Data 100](https://ds100.org/fa21/)), UC Santa Barbara ([CSW8](https://ucsb-csw8.github.io/s22/)), Northeastern University ([CS4530/5500](https://neu-se.github.io/CS4530-CS5500-Spring-2021/)), and Carnegie Mellon University ([17-450/17-950](https://cmu-crafting-software.github.io/)). Share your course website and find more examples in the [show and tell discussion](https://github.com/kevinlin1/just-the-class/discussions/categories/show-and-tell)!
+#### Coding Environment
 
-### Local development environment
+There are a few choices for how you might want to do your coding during the course. Please do ask in the discussion boards if you need any help setting these up.
 
-Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+:computer: [Noteable](https://noteable.edina.ac.uk/login) - The simplest, and one that requires very little setup. This is the University JupyterLab instance you can pull this GitHub directly in and start coding straight away
+
+:computer: [Local Jupyter](https://jupyter.org/install) - you can install a version of Jupyter locally using systems like [miniconda](https://docs.anaconda.com/miniconda/) and [Anaconda](https://www.anaconda.com). There is a good guide to installing Jupyter [here](https://jupyter.org/install).
+
+:computer: [VisualStudioCode](https://code.visualstudio.com) - This is a free open-source coding IDE from Microsoft. It's excellent and what I would recommend, not least because it has a large number of extensions that make life easier especially for GitHub and Co-Pilot.
+
+We have prepared a [Python introductory mini course](https://github.com/biomedical-informatics/pbi/tree/initial-release/python_basics) in case this is useful to people to brush up on some Python basics.
+
+#### Coursework
+
+There will be one piece of summative assessment in the course accounting for 20% of your final grade. The assessed coursework will be set on **Monday 27th October** and is due **@12pm on Friday 14th November**. Note that this course has a no extension or ETA policy in place (see LEARN page) so that I can mark all the coursework and get feedback to you in a timely manner on Thursday 20th November (~1 week after the deadline).
+
+#### Exam
+
+The end of semester exam accounts for 80% of the final course grade. There will be two revision sessions in week 11 (if needed) for me to address any questions you may have in-person. I will go through some example questions and answers in these sessions. The course has only run once before, but last year's exam paper is available for you to download [here](https://exampapers.ed.ac.uk/search?query=INFR11260). This year's paper will be largely similar in structure; I will cover any differences during the revision sessions. In addition you can always ask questions on the piazza forum throughout the course.

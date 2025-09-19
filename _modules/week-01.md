@@ -1,5 +1,5 @@
 ---
-title: Introduction to Java
+title: Course Organisation and Setup
 ---
 
 Sep 28
