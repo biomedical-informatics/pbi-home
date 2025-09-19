@@ -1,11 +1,11 @@
 ---
 layout: home
-title: Just the Class
+title: (INFR11260) Programming for Biomedical Informatics
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Just the Class
+  name: INFR11260 Programming for Biomedical Informatics
 ---
 
 # Just the Class
