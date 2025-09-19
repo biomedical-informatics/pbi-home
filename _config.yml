@@ -29,7 +29,7 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Weekly Tasks:
-    - 'https://biomedical-informatics.github.io/pbi-home/announcements/'
+    - 'announcements/'
   Course GitHub:
     - 'https://github.com/biomedical-informatics/pbi/'
 footer_content:
