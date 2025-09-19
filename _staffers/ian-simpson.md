@@ -1,9 +1,9 @@
 ---
 name: Ian Simpson
-role: Course Lecturer
+role: Teaching Assistant
 email: ian.simpson@ed.ac.uk
-website: https://biomedicalinformaticsgroup.github.io/people/iansimpson.html
-photo: ian.jpg
+website: https://kevinl.info
+photo: ian.png
 ---
 
-This is a test text
+I like teaching Computer Science!
