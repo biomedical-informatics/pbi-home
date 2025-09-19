@@ -17,7 +17,7 @@ title: (INFR11260) Programming for Biomedical Informatics
 tagline: 
 description: This is the course website for Programming in Biomedical Informatics
 author: Ian Simpson
-baseurl: '' # the subpath of your site, e.g. /blog
+baseurl: '/pbi-home' # the subpath of your site, e.g. /blog
 url: 'https://biomedical-informatics.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
