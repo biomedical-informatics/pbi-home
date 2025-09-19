@@ -12,13 +12,13 @@ seo:
 
 ### Course Overview
 
-The entire course will run through this GitHub repository. You can check the course LEARN page for some details, but I will have everything you need here so you don't have to look in lots of different places for information.
+The entire course will run through [this GitHub repository](https://github.com/biomedical-informatics/pbi). You can check the course LEARN page for some details, but I will have everything on the the GitHub course so you don't have to look in lots of different places for information.
 
-This GithHub repository will be updated every week by me with that week's materials. This means that all you need to do to see the latest information is either visit the course GitHub webpage or "pull" the repository to update your local copy of it.
+The GithHub repository will be updated every week by me with that week's materials. This means that all you need to do to see the latest information is either visit the course GitHub webpage or "pull" the repository to update your local copy of it.
 
 #### Lecture Slides & Recordings
 
-Course lecture slides will be uploaded to this repository and lecture videos made available through a dedicated channel on YouTube. These will be collated into a section on the course front page as the course progresses so they are easily accessible to you.
+Course lecture slides will be uploaded to the repository and lecture videos made available through a dedicated playlist on YouTube. These will be collated into a section on the course front page as the course progresses so they are easily accessible to you.
 
 #### Programming
 
