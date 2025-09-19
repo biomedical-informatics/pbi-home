@@ -28,8 +28,8 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Announcements:
-    - 'https://biomedical-informatics.github.io/announcements/'
+  Weekly Tasks:
+    - 'https://biomedical-informatics.github.io/pbi-home/announcements/'
   Course GitHub:
     - 'https://github.com/biomedical-informatics/pbi/'
 footer_content:
