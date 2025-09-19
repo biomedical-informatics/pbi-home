@@ -28,10 +28,10 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Kevin Lin:
-    - 'https://kevinl.info'
-  Just the Class on GitHub:
-    - 'https://github.com/kevinlin1/just-the-class'
+  Biomedical Informatics Research Group:
+    - 'https://biomedicalinformaticsgroup.github.io/'
+  Course GitHub:
+    - 'https://github.com/biomedical-informatics/pbi/'
 footer_content:
 
 # Collections for website data
