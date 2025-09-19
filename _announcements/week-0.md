@@ -1,7 +1,7 @@
 ---
 title: Week 0 Tasks
 week: 0
-date: 2025-08-09
+date: 2025-09-08
 ---
 
 1. Setup or familiarise yourself with a preferred coding environment for coding in Python.

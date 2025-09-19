@@ -1,7 +1,7 @@
 ---
 title: Week 1 Tasks
 week: 1
-date: 2025-15-09
+date: 2025-09-15
 ---
  
 1. If you haven't [completed the tasks from week 0](https://github.com/biomedical-informatics/pbi/blob/initial-release/week0/README.md) please do so this week.
