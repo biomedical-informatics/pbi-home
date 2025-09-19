@@ -28,11 +28,11 @@ Practical programming practice will take the form of weekly formative (not asses
 
 There are a few choices for how you might want to do your coding during the course. Please do ask in the discussion boards if you need any help setting these up.
 
-:computer: [Noteable](https://noteable.edina.ac.uk/login) - The simplest, and one that requires very little setup. This is the University JupyterLab instance you can pull this GitHub directly in and start coding straight away
+[Noteable](https://noteable.edina.ac.uk/login) - The simplest, and one that requires very little setup. This is the University JupyterLab instance you can pull this GitHub directly in and start coding straight away
 
-:computer: [Local Jupyter](https://jupyter.org/install) - you can install a version of Jupyter locally using systems like [miniconda](https://docs.anaconda.com/miniconda/) and [Anaconda](https://www.anaconda.com). There is a good guide to installing Jupyter [here](https://jupyter.org/install).
+[Local Jupyter](https://jupyter.org/install) - you can install a version of Jupyter locally using systems like [miniconda](https://docs.anaconda.com/miniconda/) and [Anaconda](https://www.anaconda.com). There is a good guide to installing Jupyter [here](https://jupyter.org/install).
 
-:computer: [VisualStudioCode](https://code.visualstudio.com) - This is a free open-source coding IDE from Microsoft. It's excellent and what I would recommend, not least because it has a large number of extensions that make life easier especially for GitHub and Co-Pilot.
+[VisualStudioCode](https://code.visualstudio.com) - This is a free open-source coding IDE from Microsoft. It's excellent and what I would recommend, not least because it has a large number of extensions that make life easier especially for GitHub and Co-Pilot.
 
 We have prepared a [Python introductory mini course](https://github.com/biomedical-informatics/pbi/tree/initial-release/python_basics) in case this is useful to people to brush up on some Python basics.
 
