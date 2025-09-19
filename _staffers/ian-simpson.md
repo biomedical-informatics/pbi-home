@@ -1,6 +1,6 @@
 ---
 name: Ian Simpson
-role: Teaching Assistant
+role: Course Lecturer
 email: ian.simpson@ed.ac.uk
 website: https://kevinl.info
 photo: ian.png
