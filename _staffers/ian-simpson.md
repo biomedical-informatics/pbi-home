@@ -6,4 +6,4 @@ website: https://biomedicalinformaticsgroup.github.io/people/iansimpson.html
 photo: ian.png
 ---
 
-TEMP
+This is a test text
