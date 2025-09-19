@@ -28,8 +28,8 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Biomedical Informatics Research Group:
-    - 'https://biomedicalinformaticsgroup.github.io/'
+  Ian Simpson:
+    - 'https://biomedicalinformaticsgroup.github.io/people/iansimpson.html'
   Course GitHub:
     - 'https://github.com/biomedical-informatics/pbi/'
 footer_content:
