@@ -2,7 +2,7 @@
 layout: page
 title: Course Information
 description: >-
-    Course policies and information.
+    Course information
 ---
 
 # Course Information
