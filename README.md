@@ -1,6 +1,6 @@
 ---
 layout: home
-title: (INFR11260) Programming for Biomedical Informatics
+title: Programming for Biomedical Informatics
 nav_exclude: true
 permalink: /:path/
 seo:
@@ -8,9 +8,7 @@ seo:
   name: INFR11260 Programming for Biomedical Informatics
 ---
 
-## Programming for Biomedical Informatics (INFR11260)
-
-## Semester 1, 2025
+## Programming for Biomedical Informatics (INFR11260), Semester 1, 2025
 
 {: .highlight}
 {% assign announcements = site.announcements | reverse %}
