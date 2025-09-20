@@ -18,13 +18,13 @@ seo:
   <figure class="shadow" style="width: 200px; text-align: center;">
     <img src="./assets/images/ian.png" alt="Prof. Ian Simpson" 
         style="width: 100px; height: 125px; object-fit: cover; border-radius: 50%;">
-    <figcaption><b>Course Lecturer</b></br><a href='https://biomedicalinformaticsgroup.github.io/people/iansimpson.html'>Ian Simpson</a></figcaption>
+    <figcaption><b>Course Lecturer</b><br><a href='https://biomedicalinformaticsgroup.github.io/people/iansimpson.html'>Ian Simpson</a></figcaption>
   </figure>
 
   <figure class="shadow" style="width: 200px; text-align: center;">
     <img src="./assets/images/kendig.jpg" alt="Kendig Sham" 
         style="width: 100px; height: 125px; object-fit: cover; border-radius: 50%;">
-    <figcaption><b>Teaching Assistant</b></br></figcaption>
+    <figcaption><b>Teaching Assistant</b><br>Kendig Sham</figcaption>
   </figure>
 </div>
 
