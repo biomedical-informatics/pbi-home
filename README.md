@@ -36,4 +36,4 @@ seo:
 {% assign announcements = site.announcements | reverse %}
 {{ announcements.first }}
 
-[Announcements](https://biomedical-informatics.github.io/pbi-home/announcements){: .btn .btn-blue}
+[Announcements](https://biomedical-informatics.github.io/pbi-home/announcements){: .btn .btn-outline}
