@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Programming for Biomedical Informatics
+title: Home
 nav_exclude: false
 permalink: /:path/
 seo:
