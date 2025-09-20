@@ -18,3 +18,5 @@ seo:
 {% for announcement in announcements %}
 {{ announcement }}
 {% endfor %}
+
+[Announcements](https://biomedical-informatics.github.io/pbi-home/announcements){: btn btn-blue}
