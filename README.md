@@ -12,7 +12,8 @@ seo:
 
 ### Semester 1, 2025
 
+[!NOTE]
 {% assign announcements = site.announcements | reverse %}
-{{ announcement }}
+{{ announcements.first }}
 
 [Announcements](https://biomedical-informatics.github.io/pbi-home/announcements){: .btn .btn-blue}
