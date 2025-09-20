@@ -12,7 +12,7 @@ seo:
 
 ### Semester 1, 2025
 
-[!NOTE]
+{: .highlight}
 {% assign announcements = site.announcements | reverse %}
 {{ announcements.first }}
 
