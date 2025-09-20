@@ -12,11 +12,7 @@ seo:
 
 ### Semester 1, 2025
 
-
-
 {% assign announcements = site.announcements | reverse %}
-{% for announcement in announcements %}
-{{ announcement }}
-{% endfor %}
+{ announcement }
 
-[Announcements](https://biomedical-informatics.github.io/pbi-home/announcements){: btn btn-blue}
+[Announcements](https://biomedical-informatics.github.io/pbi-home/announcements){: .btn .btn-blue}
