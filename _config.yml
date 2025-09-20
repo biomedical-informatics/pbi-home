@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: (INFR11260) Programming for Biomedical Informatics
+title: Programming for Biomedical Informatics (PBI)
 tagline: 
 description: This is the course website for Programming in Biomedical Informatics
 author: Ian Simpson

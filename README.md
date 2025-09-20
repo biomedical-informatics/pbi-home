@@ -5,7 +5,7 @@ nav_exclude: false
 permalink: /:path/
 seo:
   type: Course
-  name: Programming for Biomedical Informatics (PBI)
+  name: Programming for Biomedical Informatics (PBI) (INFR11260)
 ---
 
 <div class="d-flex flex-justify-around flex-wrap">
