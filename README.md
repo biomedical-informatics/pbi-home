@@ -14,6 +14,7 @@ seo:
 
 ---
 
+{% raw %}
 <div class="d-flex flex-justify-around flex-wrap">
   <figure class="shadow" style="width: 200px; text-align: center;">
     <img src="./assets/images/ian.png" alt="Prof. Ian Simpson" 
@@ -27,6 +28,9 @@ seo:
     <figcaption><b>Teaching Assistant</b><br>Kendig Sham</figcaption>
   </figure>
 </div>
+{% endraw %}
+
+---
 
 {: .highlight}
 {% assign announcements = site.announcements | reverse %}
