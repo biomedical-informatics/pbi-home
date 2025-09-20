@@ -9,11 +9,11 @@ seo:
 ---
 
 <img src="./assets/images/ian.png" alt="Prof. Ian Simpson" 
-     style="width: 50px; height: 65px; object-fit: cover; border-radius: 50%;" 
+     style="width: 100px; height: 125px; object-fit: cover; border-radius: 50%;" 
      class="shadow">
 
-<img src="/assets/images/kendig.png" alt="My Image" 
-     style="width: 50px; height: 65px; object-fit: cover; border-radius: 50%;" 
+<img src="/assets/images/kendig.jpg" alt="My Image" 
+     style="width: 100px; height: 125px; object-fit: cover; border-radius: 50%;" 
      class="shadow">
 
 ## Programming for Biomedical Informatics (INFR11260), Semester 1, 2025
