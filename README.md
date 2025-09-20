@@ -12,13 +12,13 @@ seo:
   <figure class="shadow" style="width: 200px; text-align: center;">
     <img src="./assets/images/ian.png" alt="Prof. Ian Simpson" 
         style="width: 100px; height: 125px; object-fit: cover; border-radius: 50%;">
-    <figcaption>Ian Simpson, Course Lecturer</figcaption>
+    <figcaption><a href='https://biomedicalinformaticsgroup.github.io/people/iansimpson.html'>Ian Simpson</a>, <b>Course Lecturer</b></figcaption>
   </figure>
 
   <figure class="shadow" style="width: 200px; text-align: center;">
     <img src="./assets/images/kendig.jpg" alt="Kendig Sham" 
         style="width: 100px; height: 125px; object-fit: cover; border-radius: 50%;">
-    <figcaption>Kendig Sham, Teaching Assistant</figcaption>
+    <figcaption>Kendig Sham, <b>Teaching Assistant</b></figcaption>
   </figure>
 </div>
 
