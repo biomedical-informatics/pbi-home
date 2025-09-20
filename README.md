@@ -10,7 +10,7 @@ seo:
 
 ## Programming for Biomedical Informatics (INFR11260)
 
-### Semester 1, 2025
+## Semester 1, 2025
 
 {: .highlight}
 {% assign announcements = site.announcements | reverse %}
