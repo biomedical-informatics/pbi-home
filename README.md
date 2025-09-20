@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Programming for Biomedical Informatics
-nav_exclude: true
+nav_exclude: false
 permalink: /:path/
 seo:
   type: Course
