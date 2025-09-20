@@ -8,8 +8,8 @@ seo:
   name: Programming for Biomedical Informatics (PBI) (INFR11260)
 ---
 
-<h1>Programming for Biomedical Informatics (INFR11260)</h1>
-<h2>Semester 1, 2025</h2>
+# Programming for Biomedical Informatics
+### Informatics (INFR11260), Semester 1, 2025
 
 <div class="d-flex flex-justify-around flex-wrap">
   <figure class="shadow" style="width: 200px; text-align: center;">
