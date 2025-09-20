@@ -8,6 +8,9 @@ seo:
   name: Programming for Biomedical Informatics (PBI) (INFR11260)
 ---
 
+<h1>Programming for Biomedical Informatics (INFR11260)</h1>
+<h2>Semester 1, 2025</h2>
+
 <div class="d-flex flex-justify-around flex-wrap">
   <figure class="shadow" style="width: 200px; text-align: center;">
     <img src="./assets/images/ian.png" alt="Prof. Ian Simpson" 
@@ -21,9 +24,6 @@ seo:
     <figcaption>Kendig Sham, <b>Teaching Assistant</b></figcaption>
   </figure>
 </div>
-
-## Programming for Biomedical Informatics (INFR11260)
-## Semester 1, 2025
 
 {: .highlight}
 {% assign announcements = site.announcements | reverse %}
