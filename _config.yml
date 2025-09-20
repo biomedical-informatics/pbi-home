@@ -28,9 +28,13 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Weekly Tasks:
-    - 'announcements/'
-  Course GitHub:
+  DRPS:
+    - 'http://www.drps.ed.ac.uk/25-26/dpt/cxinfr11260.htm'
+  Piazza:
+    - 'https://piazza.com/class/memnomhzr0l6ko'
+  Learn:
+    - 'https://www.learn.ed.ac.uk/ultra/courses/_124220_1/outline'
+  GitHub:
     - 'https://github.com/biomedical-informatics/pbi/'
 footer_content:
 
