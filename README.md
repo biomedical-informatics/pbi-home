@@ -8,8 +8,12 @@ seo:
   name: INFR11260 Programming for Biomedical Informatics
 ---
 
-<img src="/assets/images/ian.png" alt="Prof. Ian Simpson" 
-     style="width: 200px; height: 250px; object-fit: cover; border-radius: 50%;" 
+<img src="./assets/images/ian.png" alt="Prof. Ian Simpson" 
+     style="width: 50px; height: 65px; object-fit: cover; border-radius: 50%;" 
+     class="shadow">
+
+<img src="/assets/images/kendig.png" alt="My Image" 
+     style="width: 50px; height: 65px; object-fit: cover; border-radius: 50%;" 
      class="shadow">
 
 ## Programming for Biomedical Informatics (INFR11260), Semester 1, 2025
