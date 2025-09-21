@@ -6,8 +6,9 @@ description: >-
 ---
 
 # Course Information
+{: .no_toc .text-delta}
 
----
+{:toc}
 
 ## Overview
 
