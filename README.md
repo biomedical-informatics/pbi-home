@@ -37,7 +37,7 @@ seo:
 {% assign announcements = site.announcements | reverse %}
 {{ announcements.first }}
 
-[Announcements](https://biomedical-informatics.github.io/pbi-home/announcements){: .btn .btn-outline}
+[List of Weekly Tasks](https://biomedical-informatics.github.io/pbi-home/announcements){: .btn .btn-outline}
 
 In this course, you will learn how to use Python to retrieve and parse data from biological repositories through bulk download and application programming interfaces (APIs). You will learn about established data formats for different data modalities so that you can understand the structure and content of the data and how it was generated. Each week we will focus on analytical tasks in linked topics that span the main components of modern biomedical informatics research. Topics will change slightly each year, but will typically include tools, algorithms, and approaches for biological sequence, multi-omics (transcriptomics, proteomics, methylomics), biomedical network, and biomedical text analysis. Each topic will be explored using real-world examples.
 
