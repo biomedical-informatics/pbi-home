@@ -10,7 +10,7 @@ date: 2025-09-15
 
 3. experiment with setting up either conda or venv virtual environments for python and installing pacakges
 
-4. practice using GitHub; the week 0 assignment gives you a basic introduction but the familiarity will help you unlock a lot of it's useful features.
+4. practice using GitHub; the [week 0 assignment](https://classroom.github.com/a/4qR87jpB) gives you a basic introduction but the familiarity will help you unlock a lot of it's useful features.
 
 If you have any problems **please do ask** by posting a question on the Piazza forum (you can privately message me on there if you do not want to ask a question in puclic). I will be monitoring the forum closely throughout the course and this is the best way to get in touch with me.
 
