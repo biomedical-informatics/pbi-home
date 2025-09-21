@@ -4,7 +4,6 @@ week: 1
 date: 2025-09-15
 ---
  
-{: .highlight}
 1. If you haven't [completed the tasks from week 0](https://github.com/biomedical-informatics/pbi/blob/initial-release/week0/README.md) please do so this week.
 
 2. familiarise yourselves with VSCode whether that's as a standalone on your laptop/desktop or whether you access it through the Noteable service (you are of course allowed to setup whatever coding environment you like)

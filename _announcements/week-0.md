@@ -4,7 +4,6 @@ week: 0
 date: 2025-09-08
 ---
 
-{: .highlight}
 1. Setup or familiarise yourself with a preferred coding environment for coding in Python.
 
 2. [Sign up for a GitHub Student account](https://github.com/education/students) **using your University e-mail address** e.g. ```s12345@ed.ac.uk```. This is because access to the GitHub Classroom for this course has an e-mail address roster to limit access; your GitHub e-mail must match.
