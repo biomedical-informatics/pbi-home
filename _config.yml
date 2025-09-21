@@ -21,7 +21,7 @@ baseurl: '/pbi-home' # the subpath of your site, e.g. /blog
 url: 'https://biomedical-informatics.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
-# Theme settings
+# Theme settings good
 remote_theme: just-the-docs/just-the-docs@v0.10.1
 color_scheme: pbi
 search_enabled: true
