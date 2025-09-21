@@ -10,7 +10,8 @@ Tuesday 23rd September
 
 Thursday 25th September
 : Finding & Fetching Data **Lecture**{: .label .label-blue} **Coding**{: .label .label-yellow}
-<!-- : [Slides]() &#183; [Video]() -->
-<!-- >: [Notebook]() &#183; [Notebook]() -->
+<!-- : [Slides]() &#183; [Video]()
+: [Notebook]() &#183; [Notebook]()
 
 ---
+-->

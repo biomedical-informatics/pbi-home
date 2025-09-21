@@ -13,25 +13,17 @@ seo:
 
 ## Informatics (INFR11260), Semester 1, 2025
 
----
-
 {% raw %}
 <div class="d-flex flex-justify-around flex-wrap">
-  <figure class="shadow" style="width: 200px; text-align: center;">
-    <img src="./assets/images/ian.png" alt="Prof. Ian Simpson" 
-        style="width: 100px; height: 125px; object-fit: cover; border-radius: 50%;">
-    <figcaption><b>Course Lecturer</b><br><a href='https://biomedicalinformaticsgroup.github.io/people/iansimpson.html'>Ian Simpson</a></figcaption>
-  </figure>
-
-  <figure class="shadow" style="width: 200px; text-align: center;">
-    <img src="./assets/images/kendig.jpg" alt="Kendig Sham" 
-        style="width: 100px; height: 125px; object-fit: cover; border-radius: 50%;">
-    <figcaption><b>Teaching Assistant</b><br>Kendig Sham</figcaption>
+  <figure style="width: 100%;">
+    <img src="./assets/images/pbi_banner.jpg" alt="course image" 
+         style="width: 100%; height: auto; display: block;">
   </figure>
 </div>
 {% endraw %}
 
----
+{: .important}
+All course materials can be kept up to date by syncing with the [course GitHub repository](https://github.com/biomedical-informatics/pbi)
 
 {: .highlight}
 {% assign announcements = site.announcements | reverse %}

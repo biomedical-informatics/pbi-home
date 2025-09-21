@@ -1,23 +1,16 @@
 ---
-title: Course Organisation and Setup
+title: Week 1 - Course Organisation and Setup
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+Tuesday 16th September
+: Course Introduction & Setup **Lecture**{: .label .label-blue} **Background**{: .label .label-green}
+: [Slides]() &#183; [Video]()
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
+---
 
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
+Thursday 18th September
+: Working with Notebooks & Git **Lecture**{: .label .label-blue} **Coding**{: .label .label-yellow}
+: [Slides]() &#183; [Video]()
+: [Notebook]() &#183; [Notebook]()
 
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+---

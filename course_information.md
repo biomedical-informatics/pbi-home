@@ -5,15 +5,15 @@ description: >-
     Course information
 ---
 
-# Course Information
+## Course Information
 {: .no_toc}
-
-## Overview
-{:toc}
 
 The entire course will run through [this GitHub repository](https://github.com/biomedical-informatics/pbi). You can check the course LEARN page for some details, but I will have everything on the the GitHub course so you don't have to look in lots of different places for information.
 
 The GithHub repository will be updated every week by me with that week's materials. This means that all you need to do to see the latest information is either visit the course GitHub webpage or "pull" the repository to update your local copy of it.
+
+1. TOC
+{:toc}
 
 ## Lecture Slides & Recordings
 

@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Programming for Biomedical Informatics (PBI)
+title: PBI
 tagline: 
 description: This is the course website for Programming in Biomedical Informatics
 author: Ian Simpson
@@ -81,3 +81,20 @@ compress_html:
 liquid:
   error_mode: strict
   strict_filters: true
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: red
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
