@@ -6,11 +6,12 @@ description: >-
 ---
 
 # Course Information
-{: .no_toc .text-delta}
 
-{:toc}
+{: .no_toc}
 
 ## Overview
+
+{:toc}
 
 The entire course will run through [this GitHub repository](https://github.com/biomedical-informatics/pbi). You can check the course LEARN page for some details, but I will have everything on the the GitHub course so you don't have to look in lots of different places for information.
 
