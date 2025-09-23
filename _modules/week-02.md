@@ -4,7 +4,7 @@ title: Week 2 - Navigating Data Sources & Retreiving Data
 
 Tuesday 23rd September
 : Introduction to the Biomedical Dataverse **Lecture**{: .label .label-blue} **Background**{: .label .label-green}
-: [Slides](https://github.com/biomedical-informatics/pbi/blob/initial-release/week2/pbi_lecture3_2025.pdf) &#183; [Video](#)
+: [Slides](https://github.com/biomedical-informatics/pbi/blob/initial-release/week2/pbi_lecture3_2025.pdf) &#183; [Video](https://youtu.be/95Wwuvh6tps)
 
 ---
 
