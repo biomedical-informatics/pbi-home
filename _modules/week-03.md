@@ -4,7 +4,7 @@ title: Week 3 - Data Inter-operability
 
 Tuesday 30th September
 : Mapping & Harmonisation **Lecture**{: .label .label-blue} **Background**{: .label .label-green}
-: [Slides](https://github.com/biomedical-informatics/pbi/blob/initial-release/week3/pbi_lecture5_2025.pdf) &#183; [Video](#)
+: [Slides](https://github.com/biomedical-informatics/pbi/blob/initial-release/week3/pbi_lecture5_2025.pdf) &#183; [Video](https://youtu.be/zX-L7iQrP5Q)
 
 ---
 
