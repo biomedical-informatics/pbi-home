@@ -14,3 +14,8 @@ Thursday 13th November
 <!-- : [Notebook]() &#183; [Notebook]() -->
 
 ---
+
+Friday 14th November @12pm
+: Assessed Coursework Submission Deadline **Coursework**{: .label .label-red}
+
+---
