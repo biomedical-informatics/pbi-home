@@ -5,6 +5,8 @@ title: Week 7 - Modeling with Networks
 Monday 27th October
 : Assessed Coursework Released **Coursework**{: .label .label-red}
 
+---
+
 Tuesday 28th October
 : Biological Networks **Lecture**{: .label .label-blue} **Background**{: .label .label-green}
 <!-- : [Slides]() &#183; [Video]() -->
