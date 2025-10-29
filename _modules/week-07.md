@@ -2,7 +2,7 @@
 title: Week 7 - Modeling with Networks
 ---
 
-Tuesday 28th October
+Thursday 30th October
 : Assessed Coursework Released **Coursework**{: .label .label-red}
 
 ---
