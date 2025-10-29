@@ -37,7 +37,7 @@ We have prepared a [Python introductory mini course](https://github.com/biomedic
 
 ## Coursework
 
-There will be one piece of summative assessment in the course accounting for 20% of your final grade. The assessed coursework will be set on **Monday 27th October** and is due **@12pm on Friday 14th November**. Note that this course has a no extension or ETA policy in place (see LEARN page) so that I can mark all the coursework and get feedback to you in a timely manner on Thursday 20th November (~1 week after the deadline).
+There will be one piece of summative assessment in the course accounting for 20% of your final grade. The assessed coursework will be set on **Thursday 30th October** and is due **@12pm on Monday 17th November**. Note that this course has a no extension or ETA policy in place (see LEARN page) so that I can mark all the coursework and get feedback to you in a timely manner on Friday 28th November.
 
 ## Exam
 
