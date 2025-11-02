@@ -2,8 +2,9 @@
 title: Week 7 - Modeling with Networks
 ---
 
-Thursday 30th October
+Friday 1st November
 : Assessed Coursework Released **Coursework**{: .label .label-red}
+: [GitHub Classroom Assignment Invite](https://classroom.github.com/a/rBwIwm3D)
 
 ---
 
