@@ -4,7 +4,7 @@ title: Week 8 - Analysing Networks
 
 Tuesday 4th November
 : Essential Network Methods **Lecture**{: .label .label-blue} **Background**{: .label .label-green}
-: [Slides](https://github.com/biomedical-informatics/pbi/blob/initial-release/week8/pbi_lecture13_2025.pdf) &#183; [Video](#)
+: [Slides](https://github.com/biomedical-informatics/pbi/blob/initial-release/week8/pbi_lecture13_2025.pdf) &#183; [Video](https://youtu.be/yjlxgS2iY1E)
 
 ---
 
