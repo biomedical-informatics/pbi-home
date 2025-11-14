@@ -25,7 +25,7 @@ seo:
 {: .important}
 All course materials can be kept up to date by syncing with the [course GitHub repository](https://github.com/biomedical-informatics/pbi)
 
-{: .important}
+{: .new}
 Applications are now open for the UKRI AI Centre for Doctoral Training in Biomedical Innovation - find out more [here](https://ai4bi-cdt.ed.ac.uk/join-our-cdt-0)
 
 {: .highlight}
