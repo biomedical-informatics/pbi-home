@@ -9,13 +9,13 @@ Monday 17th November @12pm
 
 Tuesday 18th November
 : Working with multiple data modalities **Lecture**{: .label .label-blue} **Background**{: .label .label-green}
-<!-- : [Slides]() &#183; [Video]() -->
+: [Slides][(](https://github.com/biomedical-informatics/pbi/blob/initial-release/week10/pbi_lecture17_2025.pdf)) &#183; [Video](#)
 
 ---
 
 Thursday 20th November
 : Modelling at the patient level **Lecture**{: .label .label-blue} **Coding**{: .label .label-yellow}
-<!-- : [Slides]() &#183; [Video]() -->
-<!-- : [Notebook]() &#183; [Notebook]() -->
+: [Slides](https://github.com/biomedical-informatics/pbi/blob/initial-release/week10/pbi_lecture18_2025.pdf) &#183; [Video](#)
+: [SNF Toy Example Notebook](https://github.com/biomedical-informatics/pbi/blob/initial-release/week10/week10_lecture18_notebook1.ipynb) &#183; [RWD SNF Notebook (coming soon!)](#)
 
 ---
