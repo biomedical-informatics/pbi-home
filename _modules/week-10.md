@@ -9,7 +9,7 @@ Monday 17th November @12pm
 
 Tuesday 18th November
 : Working with multiple data modalities **Lecture**{: .label .label-blue} **Background**{: .label .label-green}
-: [Slides][(](https://github.com/biomedical-informatics/pbi/blob/initial-release/week10/pbi_lecture17_2025.pdf)) &#183; [Video](#)
+: [Slides](https://github.com/biomedical-informatics/pbi/blob/initial-release/week10/pbi_lecture17_2025.pdf)) &#183; [Video](#)
 
 ---
 
