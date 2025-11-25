@@ -19,5 +19,6 @@ Thursday 30th October
 : [Slides](https://github.com/biomedical-informatics/pbi/blob/initial-release/week07/pbi_lecture12_2025.pdf) &#183; [Video](#)
 : [Simple Network Notebook](https://github.com/biomedical-informatics/pbi/blob/initial-release/week07/week7_lecture12_notebook1.ipynb) &#183; [TCGA Network Analysis Notebook](https://github.com/biomedical-informatics/pbi/blob/initial-release/week07/week7_lecture12_notebook2.ipynb)
 : [Accompanying Graph Functions Python File](https://github.com/biomedical-informatics/pbi/blob/initial-release/week07/graph_functions.py) &#183; [TCGA Expression Data File](https://github.com/biomedical-informatics/pbi/blob/initial-release/week07/ISMB_TCGA_GE.pkl)
+: [Week 7 Assignment Solution Notebook](https://github.com/biomedical-informatics/pbi/blob/initial-release/week07/week7_solution.ipynb) &#183; [Autism Network Data](https://github.com/biomedical-informatics/pbi/blob/initial-release/week07/autism_network.tsv)
 
 ---
